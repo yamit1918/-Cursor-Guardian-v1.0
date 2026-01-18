@@ -35,7 +35,7 @@ Low Overhead: Engineered to use less than 2MB of RAM while running in the backgr
 
 📜 License
 This project is open-source and free to use.  
-                    Build, tweak, and share!  
+     &nbsp;               Build, tweak, and share!  
 --------------------------------------------------------------------------------  
 The Final "Fool-Proof" Touch
 If you want this to start every time you turn on your computer,  
