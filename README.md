@@ -3,14 +3,14 @@ Cursor Guardian is a lightweight Windows utility built in AutoHotkey.
 It solves the common "Cursor Drift" problem by automatically parking your mouse cursor  
 at the edge of the screen during intensive typing sessions in Google Chrome.  
 ✨ Key Features
-Context-Aware: Only activates when Google Chrome is your active window—  
+✅Context-Aware: Only activates when Google Chrome is your active window—  
    it won't interfere with your desktop or other apps.
 
-Dynamic Sensitivity: Choose between High, Medium, or Low sensitivity directly from the System Tray.
+✅Dynamic Sensitivity: Choose between High, Medium, or Low sensitivity directly from the System Tray.
 
-System Tray Management: A clean, professional menu to Pause, Reload, or Configure the script without touching a single line of code.
+✅System Tray Management: A clean, professional menu to Pause, Reload, or Configure the script without touching a single line of code.
 
-Ergonomic Design: Eliminates accidental "focus-stealing" clicks caused by bumping your mouse while typing.
+✅Ergonomic Design: Eliminates accidental "focus-stealing" clicks caused by bumping your mouse while typing.
 
 🚀 How to Use
 Install AutoHotkey: Ensure you have AutoHotkey installed on your PC.
