@@ -34,7 +34,8 @@ State Management: Implements Suspend commands for robust "Muting" logic.
 Low Overhead: Engineered to use less than 2MB of RAM while running in the background.
 
 📜 License
-This project is open-source and free to use. Build, tweak, and share!  
+This project is open-source and free to use.  
+                    Build, tweak, and share!  
 --------------------------------------------------------------------------------  
 The Final "Fool-Proof" Touch
 If you want this to start every time you turn on your computer,  
