@@ -39,5 +39,6 @@ This project is open-source and free to use. Build, tweak, and share!
 The Final "Fool-Proof" Touch
 If you want this to start every time you turn on your computer,  
    press Win + R, type shell:startup, 
-and move a shortcut of your .ahk script into that folder.
+and move a shortcut of your .ahk script into that folder.  
+cd.mp4
 
